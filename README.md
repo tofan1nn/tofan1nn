@@ -13,7 +13,7 @@
 - 🔹 **Modelagem de Sistemas (UML, DER, etc.)**
 
 ### 📫 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tofan1nn)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gustavo-tofanin-b4a7a8333/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tofan1nn)
 
 🚀 **Atualmente estudando para ingressar no mercado de tecnologia!**
