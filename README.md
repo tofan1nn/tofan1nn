@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Olá, eu sou Gustavo Tofanin!
 
-<!--
-**tofan1nn/tofan1nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Explorando o mundo da **programação e desenvolvimento de software**  
+🚀 Buscando aprender e crescer na área de **tecnologia**
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Conceitos que estou aprendendo:
+- 🔹 **Lógica de Programação**
+- 🔹 **Algoritmos e Estruturas de Dados**
+- 🔹 **Fundamentos de Desenvolvimento de Software**
+- 🔹 **Banco de Dados (conceitos básicos)**
+- 🔹 **Noções de Programação Orientada a Objetos (POO)**
+- 🔹 **Modelagem de Sistemas (UML, DER, etc.)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tofan1nn)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tofan1nn)
+
+🚀 **Atualmente estudando para ingressar no mercado de tecnologia!**
